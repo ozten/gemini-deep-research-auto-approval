@@ -1,0 +1,18 @@
+**Extension Name:** Gemini Deep Research Auto-Start
+
+**Short Description:**
+Automatically starts "Deep Research" in Gemini, saving you a click.
+
+**Long Description:**
+This extension enhances your workflow in Google's Gemini by automatically clicking the "Start research" button for you. It's a simple, set-and-forget tool that saves you time and lets you focus on your work.
+
+**Key Features:**
+* **One-Click Automation:** Automatically starts the "Deep Research" process.
+* **Enable/Disable:** Easily toggle the extension on or off from the toolbar.
+* **Privacy-Focused:** The extension does not collect or store any of your data.
+
+**Privacy Policy URL:** [Link to your privacy policy]
+
+**Category:** Productivity
+
+**Tags:** Gemini, AI, productivity, automation

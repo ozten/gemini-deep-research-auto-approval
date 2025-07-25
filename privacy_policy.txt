@@ -1,0 +1,29 @@
+Privacy Policy for Gemini Deep Research Auto Approval
+
+Last updated: July 25, 2025
+
+This Privacy Policy describes how Gemini Deep Research Auto Approval ("we," "us," or "our") handles information in connection with our Chrome extension (the "Service").
+
+1. Information We Do Not Collect
+
+We do not collect, store, or transmit any personally identifiable information (PII) or any other user data. The extension's functionality is entirely client-side, meaning it runs only within your browser.
+
+2. How the Extension Works
+
+The extension's sole purpose is to automate a click on the "Start research" button on the Gemini web application. It does not read, record, or transmit any information from the page or your interactions with it.
+
+3. Permissions
+
+The extension requires the following permissions:
+
+* `storage`: To save your preference for enabling or disabling the extension.
+* `scripting`: To inject the code that performs the button click.
+* `host_permissions`: To run only on `https://gemini.google.com/app`.
+
+4. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+5. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at [Your Contact Information].
