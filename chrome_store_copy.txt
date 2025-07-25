@@ -1,9 +1,12 @@
-**Extension Name:** Gemini Deep Research Auto-Start
+**Extension Name:** Gemini Deep Research Auto Approval
 
 **Short Description:**
-Automatically starts "Deep Research" in Gemini, saving you a click.
+Stop losing time when you forget to check a tab and approve a deep research plan.
+Automatically approve "Deep Research" in Gemini, saving you a click.
 
 **Long Description:**
+How many time have you fired up a bunch of tabs and asked for deep research questions,
+only to return to that tab and see it is waiting for your approval.
 This extension enhances your workflow in Google's Gemini by automatically clicking the "Start research" button for you. It's a simple, set-and-forget tool that saves you time and lets you focus on your work.
 
 **Key Features:**
@@ -11,7 +14,9 @@ This extension enhances your workflow in Google's Gemini by automatically clicki
 * **Enable/Disable:** Easily toggle the extension on or off from the toolbar.
 * **Privacy-Focused:** The extension does not collect or store any of your data.
 
-**Privacy Policy URL:** [Link to your privacy policy]
+**Privacy Policy URL:** https://raw.githubusercontent.com/ozten/gemini-deep-research-auto-approval/refs/heads/main/privacy_policy.txt
+
+**Terms of Service URL:** https://raw.githubusercontent.com/ozten/gemini-deep-research-auto-approval/refs/heads/main/terms_of_service.txt
 
 **Category:** Productivity
 
