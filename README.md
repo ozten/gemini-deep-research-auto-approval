@@ -26,9 +26,3 @@ This Chrome extension automatically approves Gemini Deep Research Plans by click
     -   Start a Deep Research query.
     -   The extension should automatically click the "Start research" button.
     -   You can toggle the extension on and off by clicking the extension's icon in the Chrome toolbar.
-
-## TODO
-
--   [ ] Convert `icons/enabled.svg` to `icons/enabled.png` (128x128)
--   [ ] Convert `icons/disabled.svg` to `icons/disabled.png` (128x128)
--   [ ] Finalize the icons and ensure they are properly sized for the Chrome Web Store.

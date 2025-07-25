@@ -1,4 +1,1 @@
-- Convert `icons/enabled.svg` to `icons/enabled.png` (128x128)
-- Convert `icons/disabled.svg` to `icons/disabled.png` (128x128)
-- Test the extension by loading it in Chrome and visiting `https://gemini.google.com/app`
-- Finalize the icons and ensure they are properly sized for the Chrome Web Store.
+# TODOs
