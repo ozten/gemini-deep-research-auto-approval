@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Gemini Deep Research Auto-Start",
+  "name": "Gemini Deep Research Auto Approval",
   "version": "1.0",
-  "description": "Automatically starts Gemini Deep Research and then disables itself.",
+  "description": "Automatically approves Gemini Deep Research plans.",
   "permissions": ["storage", "scripting"],
   "host_permissions": ["https://gemini.google.com/app"],
   "background": {
