@@ -16,4 +16,10 @@ chrome.action.onClicked.addListener(async (tab) => {
 
   chrome.action.setIcon({ path: iconPath });
   chrome.action.setTitle({ title });
+
+  if (newEnabledState) {
+    chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
+      chrome.tabs.sendMessage(tabs[0].id, { action: "checkForButton" });
+    });
+  }
 });

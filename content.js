@@ -24,3 +24,15 @@ chrome.storage.local.get("enabled", ({ enabled }) => {
     observer.observe(document.body, { childList: true, subtree: true });
   }
 });
+
+chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+  if (request.action === "checkForButton") {
+    const startResearchButton = document.querySelector("button:contains('Start research')");
+    if (startResearchButton) {
+      console.log("Gemini Auto-Start: 'Start research' button found on demand. Clicking...");
+      startResearchButton.click();
+      chrome.storage.local.set({ enabled: false });
+      console.log("Gemini Auto-Start: Extension disabled.");
+    }
+  }
+});
