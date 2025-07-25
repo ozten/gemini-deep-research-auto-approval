@@ -1,5 +1,7 @@
 chrome.runtime.onInstalled.addListener(() => {
-  chrome.storage.local.set({ enabled: false });
+  chrome.storage.local.set({ enabled: true });
+  chrome.action.setIcon({ path: "icons/enabled.png" });
+  chrome.action.setTitle({ title: "Disable Auto-Start" });
 });
 
 chrome.action.onClicked.addListener(async (tab) => {
